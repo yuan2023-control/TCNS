@@ -1,6 +1,6 @@
 # H2 suboptimal containment control of homogeneous and heterogeneous multi-agent systems(Under review)
 This responsory includes the following files:
-1. The abstract of the paper  "H2 suboptimal containment control of homogeneous and heterogeneous multi-agent systems", which was submitted to IEEE Transactions on Control of Network Systems.
+1. The abstract of the paper
 2. Simulation Videos
 
 ## Abstract: 
