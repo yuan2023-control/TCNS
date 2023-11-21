@@ -2,7 +2,7 @@
 This responsory includes the following files:
 1. The abstract of the paper
 2. Simulation Videos
-3. The manuscript of the Arxiv version 
+3. The manuscript of the Arxiv version https://arxiv.org/abs/2311.11337
 
 ## Abstract: 
 This paper deals with the  $H_2$ suboptimal state containment control problem for homogeneous linear multi-agent systems and the $H_2$ suboptimal output containment control problem for heterogeneous linear multi-agent systems. For both problems, given multiple autonomous leaders and a number of followers, we introduce suitable performance outputs and an associated $H_2$ cost functional, respectively. The aim is to design a distributed protocol by dynamic output feedback that achieves state/output containment control while the associated $H_2$ cost is smaller than an a priori given upper bound. To this end, we first show that  the $H_2$ suboptimal state/output containment control problem can be equivalently transformed into $H_2$ suboptimal control problems for a set of independent systems. Based on this, design methods are then provided to compute such distributed dynamic output feedback protocols.
